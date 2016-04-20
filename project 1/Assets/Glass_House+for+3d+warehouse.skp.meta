@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 58fe4fd830be0c64a9387f3fde3a6ed7
+timeCreated: 1459182197
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000
+  assetHash:
+    serializedVersion: 2
+    Hash: fd75169802636ab7061ce99d9f4b34ce
+  longitude: 23.355947
+  latitude: 42.597324
+  northCorrection: 1.5953475227085505
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.740871, y: 1.937934, z: 9.406999}
+      lookAt: {x: 8.740871, y: 1.937934, z: 24.862352}
+      up: {x: 0, y: 1, z: 0}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 120
+    100002: 7'x6'8" exterior sliding glass door
+    100004: Afzuigkap
+    100006: bovenkast
+    100008: bovenkast 1
+    100010: Component#9
+    100012: Cylinder01
+    100014: door 5
+    100016: door 5 1
+    100018: eiland
+    100020: flower
+    100022: flower 1
+    100024: flower 2
+    100026: flower 3
+    100028: Frame
+    100030: //RootNode
+    100032: greep
+    100034: greep 1
+    100036: greep 10
+    100038: greep 11
+    100040: greep 12
+    100042: greep 13
+    100044: greep 14
+    100046: greep 15
+    100048: greep 16
+    100050: greep 17
+    100052: greep 2
+    100054: greep 3
+    100056: greep 4
+    100058: greep 5
+    100060: greep 6
+    100062: greep 7
+    100064: greep 8
+    100066: greep 9
+    100068: Group 101
+    100070: Group 103
+    100072: Group 105
+    100074: Group 107
+    100076: Group 109
+    100078: Group 11
+    100080: Group 111
+    100082: Group 113
+    100084: Group 115
+    100086: Group 117
+    100088: Group 119
+    100090: Group 121
+    100092: Group 123
+    100094: Group 125
+    100096: Group 127
+    100098: Group 129
+    100100: Group 13
+    100102: Group 131
+    100104: Group 133
+    100106: Group 135
+    100108: Group 137
+    100110: Group 139
+    100112: Group 141
+    100114: Group 143
+    100116: Group 145
+    100118: Group 147
+    100120: Group 149
+    100122: Group 15
+    100124: Group 151
+    100126: Group 153
+    100128: Group 155
+    100130: Group 157
+    100132: Group 159
+    100134: Group 161
+    100136: Group 163
+    100138: Group 165
+    100140: Group 167
+    100142: Group 169
+    100144: Group 17
+    100146: Group 171
+    100148: Group 173
+    100150: Group 175
+    100152: Group 177
+    100154: Group 179
+    100156: Group 181
+    100158: Group 183
+    100160: Group 185
+    100162: Group 187
+    100164: Group 189
+    100166: Group 19
+    100168: Group 191
+    100170: Group 193
+    100172: Group 195
+    100174: Group 197
+    100176: Group 199
+    100178: Group 201
+    100180: Group 203
+    100182: Group 205
+    100184: Group 207
+    100186: Group 209
+    100188: Group 21
+    100190: Group 211
+    100192: Group 213
+    100194: Group 215
+    100196: Group 217
+    100198: Group 219
+    100200: Group 221
+    100202: Group 223
+    100204: Group 225
+    100206: Group 227
+    100208: Group 229
+    100210: Group 23
+    100212: Group 231
+    100214: Group 233
+    100216: Group 235
+    100218: Group 237
+    100220: Group 239
+    100222: Group 241
+    100224: Group 243
+    100226: Group 245
+    100228: Group 247
+    100230: Group 249
+    100232: Group 25
+    100234: Group 251
+    100236: Group 253
+    100238: Group 255
+    100240: Group 257
+    100242: Group 259
+    100244: Group 261
+    100246: Group 263
+    100248: Group 265
+    100250: Group 267
+    100252: Group 269
+    100254: Group 27
+    100256: Group 271
+    100258: Group 273
+    100260: Group 275
+    100262: Group 277
+    100264: Group 279
+    100266: Group 281
+    100268: Group 283
+    100270: Group 285
+    100272: Group 287
+    100274: Group 289
+    100276: Group 29
+    100278: Group 291
+    100280: Group 293
+    100282: Group 295
+    100284: Group 297
+    100286: Group 299
+    100288: Group 301
+    100290: Group 303
+    100292: Group 305
+    100294: Group 307
+    100296: Group 309
+    100298: Group 31
+    100300: Group 311
+    100302: Group 313
+    100304: Group 315
+    100306: Group 317
+    100308: Group 319
+    100310: Group 321
+    100312: Group 323
+    100314: Group 325
+    100316: Group 327
+    100318: Group 329
+    100320: Group 33
+    100322: Group 331
+    100324: Group 333
+    100326: Group 335
+    100328: Group 337
+    100330: Group 339
+    100332: Group 341
+    100334: Group 343
+    100336: Group 345
+    100338: Group 347
+    100340: Group 349
+    100342: Group 35
+    100344: Group 351
+    100346: Group 353
+    100348: Group 355
+    100350: Group 357
+    100352: Group 359
+    100354: Group 361
+    100356: Group 363
+    100358: Group 365
+    100360: Group 367
+    100362: Group 369
+    100364: Group 37
+    100366: Group 371
+    100368: Group 373
+    100370: Group 375
+    100372: Group 377
+    100374: Group 379
+    100376: Group 381
+    100378: Group 383
+    100380: Group 385
+    100382: Group 387
+    100384: Group 389
+    100386: Group 39
+    100388: Group 391
+    100390: Group 393
+    100392: Group 395
+    100394: Group 397
+    100396: Group 399
+    100398: Group 401
+    100400: Group 403
+    100402: Group 405
+    100404: Group 407
+    100406: Group 409
+    100408: Group 41
+    100410: Group 411
+    100412: Group 43
+    100414: Group 45
+    100416: Group 47
+    100418: Group 486
+    100420: Group 488
+    100422: Group 49
+    100424: Group 490
+    100426: Group 497
+    100428: Group 499
+    100430: Group 5
+    100432: Group 501
+    100434: Group 503
+    100436: Group 51
+    100438: Group 53
+    100440: Group 55
+    100442: Group 555
+    100444: Group 557
+    100446: Group 559
+    100448: Group 561
+    100450: Group 563
+    100452: Group 565
+    100454: Group 566
+    100456: Group 567
+    100458: Group 569
+    100460: Group 57
+    100462: Group 59
+    100464: Group 608
+    100466: Group 61
+    100468: Group 610
+    100470: Group 611
+    100472: Group 613
+    100474: Group 618
+    100476: Group 621
+    100478: Group 624
+    100480: Group 626
+    100482: Group 628
+    100484: Group 63
+    100486: Group 630
+    100488: Group 632
+    100490: Group 634
+    100492: Group 636
+    100494: Group 638
+    100496: Group 640
+    100498: Group 642
+    100500: Group 644
+    100502: Group 646
+    100504: Group 648
+    100506: Group 65
+    100508: Group 658
+    100510: Group 660
+    100512: Group 662
+    100514: Group 664
+    100516: Group 67
+    100518: Group 69
+    100520: Group 7
+    100522: Group 71
+    100524: Group 73
+    100526: Group 75
+    100528: Group 77
+    100530: Group 79
+    100532: Group 81
+    100534: Group 83
+    100536: Group 85
+    100538: Group 87
+    100540: Group 89
+    100542: Group 9
+    100544: Group 91
+    100546: Group 93
+    100548: Group 95
+    100550: Group 97
+    100552: Group 99
+    100554: Image 498
+    100556: Image 516
+    100558: Image 609
+    100560: kasten
+    100562: Kitchen
+    100564: Knife_Set_Handle
+    100566: Knife_Set_Handle 1
+    100568: Knife_Set_Handle 2
+    100570: Knife_Set_Handle 3
+    100572: Knife_Set_Handle 4
+    100574: koffie-uitgang
+    100576: kookeiland
+    100578: Kookeiland1
+    100580: leaf
+    100582: leaf 1
+    100584: leaf 2
+    100586: leaf 3
+    100588: leaf 4
+    100590: leaf 5
+    100592: leaf 6
+    100594: leather_ba
+    100596: leather_ba_MeshPart0
+    100598: leather_ba_MeshPart1
+    100600: Modern Coffee Table
+    100602: modern sofa
+    100604: petal#1
+    100606: petal#1 1
+    100608: petal#1 10
+    100610: petal#1 11
+    100612: petal#1 12
+    100614: petal#1 13
+    100616: petal#1 14
+    100618: petal#1 15
+    100620: petal#1 2
+    100622: petal#1 3
+    100624: petal#1 4
+    100626: petal#1 5
+    100628: petal#1 6
+    100630: petal#1 7
+    100632: petal#1 8
+    100634: petal#1 9
+    100636: PHILIPS
+    100638: pillow
+    100640: pillow 1
+    100642: planca wardrobe
+    100644: Plant_flower
+    100646: Plant_flower 1
+    100648: Plant_flower 2
+    100650: Plant_flower2
+    100652: ske14
+    100654: ske1A10
+    100656: ske26
+    100658: ske5B5
+    100660: ske5B6
+    100662: ske5C4
+    100664: ske5C5
+    100666: ske5C9
+    100668: ske84
+    100670: ske865
+    100672: skp66
+    100674: skpD0
+    100676: Slider
+    100678: Slider2
+    100680: "sof\xE0"
+    100682: "sof\xE0 rose"
+    100684: stem
+    100686: stem 1
+    100688: stem 2
+    100690: stem2
+    100692: TV Set
+    100694: Vase_Quarter
+    100696: Vase_Quarter 1
+    100698: Vase_Quarter 2
+    100700: Vase_Quarter 3
+    100702: Vase_Short_Flowers
+    100704: vase_thin
+    100706: Water_Faucet_4
+    100708: werkblad
+    100710: werkblad2
+    100712: Whirlpool Induction Cooktop
+    100714: Window
+    100716: Window 1
+    400000: 120
+    400002: 7'x6'8" exterior sliding glass door
+    400004: Afzuigkap
+    400006: bovenkast
+    400008: bovenkast 1
+    400010: Component#9
+    400012: Cylinder01
+    400014: door 5
+    400016: door 5 1
+    400018: eiland
+    400020: flower
+    400022: flower 1
+    400024: flower 2
+    400026: flower 3
+    400028: Frame
+    400030: //RootNode
+    400032: greep
+    400034: greep 1
+    400036: greep 10
+    400038: greep 11
+    400040: greep 12
+    400042: greep 13
+    400044: greep 14
+    400046: greep 15
+    400048: greep 16
+    400050: greep 17
+    400052: greep 2
+    400054: greep 3
+    400056: greep 4
+    400058: greep 5
+    400060: greep 6
+    400062: greep 7
+    400064: greep 8
+    400066: greep 9
+    400068: Group 101
+    400070: Group 103
+    400072: Group 105
+    400074: Group 107
+    400076: Group 109
+    400078: Group 11
+    400080: Group 111
+    400082: Group 113
+    400084: Group 115
+    400086: Group 117
+    400088: Group 119
+    400090: Group 121
+    400092: Group 123
+    400094: Group 125
+    400096: Group 127
+    400098: Group 129
+    400100: Group 13
+    400102: Group 131
+    400104: Group 133
+    400106: Group 135
+    400108: Group 137
+    400110: Group 139
+    400112: Group 141
+    400114: Group 143
+    400116: Group 145
+    400118: Group 147
+    400120: Group 149
+    400122: Group 15
+    400124: Group 151
+    400126: Group 153
+    400128: Group 155
+    400130: Group 157
+    400132: Group 159
+    400134: Group 161
+    400136: Group 163
+    400138: Group 165
+    400140: Group 167
+    400142: Group 169
+    400144: Group 17
+    400146: Group 171
+    400148: Group 173
+    400150: Group 175
+    400152: Group 177
+    400154: Group 179
+    400156: Group 181
+    400158: Group 183
+    400160: Group 185
+    400162: Group 187
+    400164: Group 189
+    400166: Group 19
+    400168: Group 191
+    400170: Group 193
+    400172: Group 195
+    400174: Group 197
+    400176: Group 199
+    400178: Group 201
+    400180: Group 203
+    400182: Group 205
+    400184: Group 207
+    400186: Group 209
+    400188: Group 21
+    400190: Group 211
+    400192: Group 213
+    400194: Group 215
+    400196: Group 217
+    400198: Group 219
+    400200: Group 221
+    400202: Group 223
+    400204: Group 225
+    400206: Group 227
+    400208: Group 229
+    400210: Group 23
+    400212: Group 231
+    400214: Group 233
+    400216: Group 235
+    400218: Group 237
+    400220: Group 239
+    400222: Group 241
+    400224: Group 243
+    400226: Group 245
+    400228: Group 247
+    400230: Group 249
+    400232: Group 25
+    400234: Group 251
+    400236: Group 253
+    400238: Group 255
+    400240: Group 257
+    400242: Group 259
+    400244: Group 261
+    400246: Group 263
+    400248: Group 265
+    400250: Group 267
+    400252: Group 269
+    400254: Group 27
+    400256: Group 271
+    400258: Group 273
+    400260: Group 275
+    400262: Group 277
+    400264: Group 279
+    400266: Group 281
+    400268: Group 283
+    400270: Group 285
+    400272: Group 287
+    400274: Group 289
+    400276: Group 29
+    400278: Group 291
+    400280: Group 293
+    400282: Group 295
+    400284: Group 297
+    400286: Group 299
+    400288: Group 301
+    400290: Group 303
+    400292: Group 305
+    400294: Group 307
+    400296: Group 309
+    400298: Group 31
+    400300: Group 311
+    400302: Group 313
+    400304: Group 315
+    400306: Group 317
+    400308: Group 319
+    400310: Group 321
+    400312: Group 323
+    400314: Group 325
+    400316: Group 327
+    400318: Group 329
+    400320: Group 33
+    400322: Group 331
+    400324: Group 333
+    400326: Group 335
+    400328: Group 337
+    400330: Group 339
+    400332: Group 341
+    400334: Group 343
+    400336: Group 345
+    400338: Group 347
+    400340: Group 349
+    400342: Group 35
+    400344: Group 351
+    400346: Group 353
+    400348: Group 355
+    400350: Group 357
+    400352: Group 359
+    400354: Group 361
+    400356: Group 363
+    400358: Group 365
+    400360: Group 367
+    400362: Group 369
+    400364: Group 37
+    400366: Group 371
+    400368: Group 373
+    400370: Group 375
+    400372: Group 377
+    400374: Group 379
+    400376: Group 381
+    400378: Group 383
+    400380: Group 385
+    400382: Group 387
+    400384: Group 389
+    400386: Group 39
+    400388: Group 391
+    400390: Group 393
+    400392: Group 395
+    400394: Group 397
+    400396: Group 399
+    400398: Group 401
+    400400: Group 403
+    400402: Group 405
+    400404: Group 407
+    400406: Group 409
+    400408: Group 41
+    400410: Group 411
+    400412: Group 43
+    400414: Group 45
+    400416: Group 47
+    400418: Group 486
+    400420: Group 488
+    400422: Group 49
+    400424: Group 490
+    400426: Group 497
+    400428: Group 499
+    400430: Group 5
+    400432: Group 501
+    400434: Group 503
+    400436: Group 51
+    400438: Group 53
+    400440: Group 55
+    400442: Group 555
+    400444: Group 557
+    400446: Group 559
+    400448: Group 561
+    400450: Group 563
+    400452: Group 565
+    400454: Group 566
+    400456: Group 567
+    400458: Group 569
+    400460: Group 57
+    400462: Group 59
+    400464: Group 608
+    400466: Group 61
+    400468: Group 610
+    400470: Group 611
+    400472: Group 613
+    400474: Group 618
+    400476: Group 621
+    400478: Group 624
+    400480: Group 626
+    400482: Group 628
+    400484: Group 63
+    400486: Group 630
+    400488: Group 632
+    400490: Group 634
+    400492: Group 636
+    400494: Group 638
+    400496: Group 640
+    400498: Group 642
+    400500: Group 644
+    400502: Group 646
+    400504: Group 648
+    400506: Group 65
+    400508: Group 658
+    400510: Group 660
+    400512: Group 662
+    400514: Group 664
+    400516: Group 67
+    400518: Group 69
+    400520: Group 7
+    400522: Group 71
+    400524: Group 73
+    400526: Group 75
+    400528: Group 77
+    400530: Group 79
+    400532: Group 81
+    400534: Group 83
+    400536: Group 85
+    400538: Group 87
+    400540: Group 89
+    400542: Group 9
+    400544: Group 91
+    400546: Group 93
+    400548: Group 95
+    400550: Group 97
+    400552: Group 99
+    400554: Image 498
+    400556: Image 516
+    400558: Image 609
+    400560: kasten
+    400562: Kitchen
+    400564: Knife_Set_Handle
+    400566: Knife_Set_Handle 1
+    400568: Knife_Set_Handle 2
+    400570: Knife_Set_Handle 3
+    400572: Knife_Set_Handle 4
+    400574: koffie-uitgang
+    400576: kookeiland
+    400578: Kookeiland1
+    400580: leaf
+    400582: leaf 1
+    400584: leaf 2
+    400586: leaf 3
+    400588: leaf 4
+    400590: leaf 5
+    400592: leaf 6
+    400594: leather_ba
+    400596: leather_ba_MeshPart0
+    400598: leather_ba_MeshPart1
+    400600: Modern Coffee Table
+    400602: modern sofa
+    400604: petal#1
+    400606: petal#1 1
+    400608: petal#1 10
+    400610: petal#1 11
+    400612: petal#1 12
+    400614: petal#1 13
+    400616: petal#1 14
+    400618: petal#1 15
+    400620: petal#1 2
+    400622: petal#1 3
+    400624: petal#1 4
+    400626: petal#1 5
+    400628: petal#1 6
+    400630: petal#1 7
+    400632: petal#1 8
+    400634: petal#1 9
+    400636: PHILIPS
+    400638: pillow
+    400640: pillow 1
+    400642: planca wardrobe
+    400644: Plant_flower
+    400646: Plant_flower 1
+    400648: Plant_flower 2
+    400650: Plant_flower2
+    400652: ske14
+    400654: ske1A10
+    400656: ske26
+    400658: ske5B5
+    400660: ske5B6
+    400662: ske5C4
+    400664: ske5C5
+    400666: ske5C9
+    400668: ske84
+    400670: ske865
+    400672: skp66
+    400674: skpD0
+    400676: Slider
+    400678: Slider2
+    400680: "sof\xE0"
+    400682: "sof\xE0 rose"
+    400684: stem
+    400686: stem 1
+    400688: stem 2
+    400690: stem2
+    400692: TV Set
+    400694: Vase_Quarter
+    400696: Vase_Quarter 1
+    400698: Vase_Quarter 2
+    400700: Vase_Quarter 3
+    400702: Vase_Short_Flowers
+    400704: vase_thin
+    400706: Water_Faucet_4
+    400708: werkblad
+    400710: werkblad2
+    400712: Whirlpool Induction Cooktop
+    400714: Window
+    400716: Window 1
+    2300000: 120
+    2300002: Afzuigkap
+    2300004: bovenkast
+    2300006: bovenkast 1
+    2300008: Component#9
+    2300010: Cylinder01
+    2300012: door 5
+    2300014: door 5 1
+    2300016: eiland
+    2300018: Frame
+    2300020: greep
+    2300022: greep 1
+    2300024: greep 10
+    2300026: greep 11
+    2300028: greep 12
+    2300030: greep 13
+    2300032: greep 14
+    2300034: greep 15
+    2300036: greep 16
+    2300038: greep 17
+    2300040: greep 2
+    2300042: greep 3
+    2300044: greep 4
+    2300046: greep 5
+    2300048: greep 6
+    2300050: greep 7
+    2300052: greep 8
+    2300054: greep 9
+    2300056: Group 101
+    2300058: Group 103
+    2300060: Group 105
+    2300062: Group 107
+    2300064: Group 109
+    2300066: Group 11
+    2300068: Group 111
+    2300070: Group 113
+    2300072: Group 115
+    2300074: Group 117
+    2300076: Group 119
+    2300078: Group 121
+    2300080: Group 123
+    2300082: Group 125
+    2300084: Group 127
+    2300086: Group 129
+    2300088: Group 13
+    2300090: Group 131
+    2300092: Group 133
+    2300094: Group 135
+    2300096: Group 137
+    2300098: Group 139
+    2300100: Group 141
+    2300102: Group 143
+    2300104: Group 145
+    2300106: Group 147
+    2300108: Group 149
+    2300110: Group 15
+    2300112: Group 151
+    2300114: Group 153
+    2300116: Group 155
+    2300118: Group 157
+    2300120: Group 159
+    2300122: Group 161
+    2300124: Group 163
+    2300126: Group 165
+    2300128: Group 167
+    2300130: Group 169
+    2300132: Group 17
+    2300134: Group 171
+    2300136: Group 173
+    2300138: Group 175
+    2300140: Group 177
+    2300142: Group 179
+    2300144: Group 181
+    2300146: Group 183
+    2300148: Group 185
+    2300150: Group 187
+    2300152: Group 189
+    2300154: Group 19
+    2300156: Group 191
+    2300158: Group 193
+    2300160: Group 195
+    2300162: Group 197
+    2300164: Group 199
+    2300166: Group 201
+    2300168: Group 203
+    2300170: Group 205
+    2300172: Group 207
+    2300174: Group 209
+    2300176: Group 21
+    2300178: Group 211
+    2300180: Group 213
+    2300182: Group 215
+    2300184: Group 217
+    2300186: Group 219
+    2300188: Group 221
+    2300190: Group 223
+    2300192: Group 225
+    2300194: Group 227
+    2300196: Group 229
+    2300198: Group 23
+    2300200: Group 231
+    2300202: Group 233
+    2300204: Group 235
+    2300206: Group 237
+    2300208: Group 239
+    2300210: Group 241
+    2300212: Group 243
+    2300214: Group 245
+    2300216: Group 247
+    2300218: Group 249
+    2300220: Group 25
+    2300222: Group 251
+    2300224: Group 253
+    2300226: Group 255
+    2300228: Group 257
+    2300230: Group 259
+    2300232: Group 261
+    2300234: Group 263
+    2300236: Group 265
+    2300238: Group 267
+    2300240: Group 269
+    2300242: Group 27
+    2300244: Group 271
+    2300246: Group 273
+    2300248: Group 275
+    2300250: Group 277
+    2300252: Group 279
+    2300254: Group 281
+    2300256: Group 283
+    2300258: Group 285
+    2300260: Group 287
+    2300262: Group 289
+    2300264: Group 29
+    2300266: Group 291
+    2300268: Group 293
+    2300270: Group 295
+    2300272: Group 297
+    2300274: Group 299
+    2300276: Group 301
+    2300278: Group 303
+    2300280: Group 305
+    2300282: Group 307
+    2300284: Group 309
+    2300286: Group 31
+    2300288: Group 311
+    2300290: Group 313
+    2300292: Group 315
+    2300294: Group 317
+    2300296: Group 319
+    2300298: Group 321
+    2300300: Group 323
+    2300302: Group 325
+    2300304: Group 327
+    2300306: Group 329
+    2300308: Group 33
+    2300310: Group 331
+    2300312: Group 333
+    2300314: Group 335
+    2300316: Group 337
+    2300318: Group 339
+    2300320: Group 341
+    2300322: Group 343
+    2300324: Group 345
+    2300326: Group 347
+    2300328: Group 349
+    2300330: Group 35
+    2300332: Group 351
+    2300334: Group 353
+    2300336: Group 355
+    2300338: Group 357
+    2300340: Group 359
+    2300342: Group 361
+    2300344: Group 363
+    2300346: Group 365
+    2300348: Group 367
+    2300350: Group 369
+    2300352: Group 37
+    2300354: Group 371
+    2300356: Group 373
+    2300358: Group 375
+    2300360: Group 377
+    2300362: Group 379
+    2300364: Group 381
+    2300366: Group 383
+    2300368: Group 385
+    2300370: Group 387
+    2300372: Group 389
+    2300374: Group 39
+    2300376: Group 391
+    2300378: Group 393
+    2300380: Group 395
+    2300382: Group 397
+    2300384: Group 399
+    2300386: Group 401
+    2300388: Group 403
+    2300390: Group 405
+    2300392: Group 407
+    2300394: Group 409
+    2300396: Group 41
+    2300398: Group 411
+    2300400: Group 43
+    2300402: Group 45
+    2300404: Group 47
+    2300406: Group 486
+    2300408: Group 488
+    2300410: Group 49
+    2300412: Group 490
+    2300414: Group 499
+    2300416: Group 5
+    2300418: Group 501
+    2300420: Group 503
+    2300422: Group 51
+    2300424: Group 53
+    2300426: Group 55
+    2300428: Group 555
+    2300430: Group 557
+    2300432: Group 559
+    2300434: Group 561
+    2300436: Group 563
+    2300438: Group 567
+    2300440: Group 569
+    2300442: Group 57
+    2300444: Group 59
+    2300446: Group 61
+    2300448: Group 611
+    2300450: Group 613
+    2300452: Group 618
+    2300454: Group 621
+    2300456: Group 624
+    2300458: Group 626
+    2300460: Group 628
+    2300462: Group 63
+    2300464: Group 630
+    2300466: Group 632
+    2300468: Group 634
+    2300470: Group 636
+    2300472: Group 638
+    2300474: Group 640
+    2300476: Group 642
+    2300478: Group 644
+    2300480: Group 646
+    2300482: Group 648
+    2300484: Group 65
+    2300486: Group 658
+    2300488: Group 660
+    2300490: Group 662
+    2300492: Group 664
+    2300494: Group 67
+    2300496: Group 69
+    2300498: Group 7
+    2300500: Group 71
+    2300502: Group 73
+    2300504: Group 75
+    2300506: Group 77
+    2300508: Group 79
+    2300510: Group 81
+    2300512: Group 83
+    2300514: Group 85
+    2300516: Group 87
+    2300518: Group 89
+    2300520: Group 9
+    2300522: Group 91
+    2300524: Group 93
+    2300526: Group 95
+    2300528: Group 97
+    2300530: Group 99
+    2300532: Image 498
+    2300534: Image 516
+    2300536: Image 609
+    2300538: kasten
+    2300540: Knife_Set_Handle
+    2300542: Knife_Set_Handle 1
+    2300544: Knife_Set_Handle 2
+    2300546: Knife_Set_Handle 3
+    2300548: Knife_Set_Handle 4
+    2300550: koffie-uitgang
+    2300552: leaf
+    2300554: leaf 1
+    2300556: leaf 2
+    2300558: leaf 3
+    2300560: leaf 4
+    2300562: leaf 5
+    2300564: leaf 6
+    2300566: leather_ba_MeshPart0
+    2300568: leather_ba_MeshPart1
+    2300570: Modern Coffee Table
+    2300572: petal#1
+    2300574: petal#1 1
+    2300576: petal#1 10
+    2300578: petal#1 11
+    2300580: petal#1 12
+    2300582: petal#1 13
+    2300584: petal#1 14
+    2300586: petal#1 15
+    2300588: petal#1 2
+    2300590: petal#1 3
+    2300592: petal#1 4
+    2300594: petal#1 5
+    2300596: petal#1 6
+    2300598: petal#1 7
+    2300600: petal#1 8
+    2300602: petal#1 9
+    2300604: PHILIPS
+    2300606: pillow
+    2300608: pillow 1
+    2300610: planca wardrobe
+    2300612: ske1A10
+    2300614: ske5C5
+    2300616: ske865
+    2300618: Slider
+    2300620: Slider2
+    2300622: stem
+    2300624: stem 1
+    2300626: stem 2
+    2300628: stem2
+    2300630: Vase_Quarter
+    2300632: Vase_Quarter 1
+    2300634: Vase_Quarter 2
+    2300636: Vase_Quarter 3
+    2300638: Water_Faucet_4
+    2300640: werkblad
+    2300642: werkblad2
+    2300644: Whirlpool Induction Cooktop
+    2300646: Window
+    2300648: Window 1
+    3300000: 120
+    3300002: Afzuigkap
+    3300004: bovenkast
+    3300006: bovenkast 1
+    3300008: Component#9
+    3300010: Cylinder01
+    3300012: door 5
+    3300014: door 5 1
+    3300016: eiland
+    3300018: Frame
+    3300020: greep
+    3300022: greep 1
+    3300024: greep 10
+    3300026: greep 11
+    3300028: greep 12
+    3300030: greep 13
+    3300032: greep 14
+    3300034: greep 15
+    3300036: greep 16
+    3300038: greep 17
+    3300040: greep 2
+    3300042: greep 3
+    3300044: greep 4
+    3300046: greep 5
+    3300048: greep 6
+    3300050: greep 7
+    3300052: greep 8
+    3300054: greep 9
+    3300056: Group 101
+    3300058: Group 103
+    3300060: Group 105
+    3300062: Group 107
+    3300064: Group 109
+    3300066: Group 11
+    3300068: Group 111
+    3300070: Group 113
+    3300072: Group 115
+    3300074: Group 117
+    3300076: Group 119
+    3300078: Group 121
+    3300080: Group 123
+    3300082: Group 125
+    3300084: Group 127
+    3300086: Group 129
+    3300088: Group 13
+    3300090: Group 131
+    3300092: Group 133
+    3300094: Group 135
+    3300096: Group 137
+    3300098: Group 139
+    3300100: Group 141
+    3300102: Group 143
+    3300104: Group 145
+    3300106: Group 147
+    3300108: Group 149
+    3300110: Group 15
+    3300112: Group 151
+    3300114: Group 153
+    3300116: Group 155
+    3300118: Group 157
+    3300120: Group 159
+    3300122: Group 161
+    3300124: Group 163
+    3300126: Group 165
+    3300128: Group 167
+    3300130: Group 169
+    3300132: Group 17
+    3300134: Group 171
+    3300136: Group 173
+    3300138: Group 175
+    3300140: Group 177
+    3300142: Group 179
+    3300144: Group 181
+    3300146: Group 183
+    3300148: Group 185
+    3300150: Group 187
+    3300152: Group 189
+    3300154: Group 19
+    3300156: Group 191
+    3300158: Group 193
+    3300160: Group 195
+    3300162: Group 197
+    3300164: Group 199
+    3300166: Group 201
+    3300168: Group 203
+    3300170: Group 205
+    3300172: Group 207
+    3300174: Group 209
+    3300176: Group 21
+    3300178: Group 211
+    3300180: Group 213
+    3300182: Group 215
+    3300184: Group 217
+    3300186: Group 219
+    3300188: Group 221
+    3300190: Group 223
+    3300192: Group 225
+    3300194: Group 227
+    3300196: Group 229
+    3300198: Group 23
+    3300200: Group 231
+    3300202: Group 233
+    3300204: Group 235
+    3300206: Group 237
+    3300208: Group 239
+    3300210: Group 241
+    3300212: Group 243
+    3300214: Group 245
+    3300216: Group 247
+    3300218: Group 249
+    3300220: Group 25
+    3300222: Group 251
+    3300224: Group 253
+    3300226: Group 255
+    3300228: Group 257
+    3300230: Group 259
+    3300232: Group 261
+    3300234: Group 263
+    3300236: Group 265
+    3300238: Group 267
+    3300240: Group 269
+    3300242: Group 27
+    3300244: Group 271
+    3300246: Group 273
+    3300248: Group 275
+    3300250: Group 277
+    3300252: Group 279
+    3300254: Group 281
+    3300256: Group 283
+    3300258: Group 285
+    3300260: Group 287
+    3300262: Group 289
+    3300264: Group 29
+    3300266: Group 291
+    3300268: Group 293
+    3300270: Group 295
+    3300272: Group 297
+    3300274: Group 299
+    3300276: Group 301
+    3300278: Group 303
+    3300280: Group 305
+    3300282: Group 307
+    3300284: Group 309
+    3300286: Group 31
+    3300288: Group 311
+    3300290: Group 313
+    3300292: Group 315
+    3300294: Group 317
+    3300296: Group 319
+    3300298: Group 321
+    3300300: Group 323
+    3300302: Group 325
+    3300304: Group 327
+    3300306: Group 329
+    3300308: Group 33
+    3300310: Group 331
+    3300312: Group 333
+    3300314: Group 335
+    3300316: Group 337
+    3300318: Group 339
+    3300320: Group 341
+    3300322: Group 343
+    3300324: Group 345
+    3300326: Group 347
+    3300328: Group 349
+    3300330: Group 35
+    3300332: Group 351
+    3300334: Group 353
+    3300336: Group 355
+    3300338: Group 357
+    3300340: Group 359
+    3300342: Group 361
+    3300344: Group 363
+    3300346: Group 365
+    3300348: Group 367
+    3300350: Group 369
+    3300352: Group 37
+    3300354: Group 371
+    3300356: Group 373
+    3300358: Group 375
+    3300360: Group 377
+    3300362: Group 379
+    3300364: Group 381
+    3300366: Group 383
+    3300368: Group 385
+    3300370: Group 387
+    3300372: Group 389
+    3300374: Group 39
+    3300376: Group 391
+    3300378: Group 393
+    3300380: Group 395
+    3300382: Group 397
+    3300384: Group 399
+    3300386: Group 401
+    3300388: Group 403
+    3300390: Group 405
+    3300392: Group 407
+    3300394: Group 409
+    3300396: Group 41
+    3300398: Group 411
+    3300400: Group 43
+    3300402: Group 45
+    3300404: Group 47
+    3300406: Group 486
+    3300408: Group 488
+    3300410: Group 49
+    3300412: Group 490
+    3300414: Group 499
+    3300416: Group 5
+    3300418: Group 501
+    3300420: Group 503
+    3300422: Group 51
+    3300424: Group 53
+    3300426: Group 55
+    3300428: Group 555
+    3300430: Group 557
+    3300432: Group 559
+    3300434: Group 561
+    3300436: Group 563
+    3300438: Group 567
+    3300440: Group 569
+    3300442: Group 57
+    3300444: Group 59
+    3300446: Group 61
+    3300448: Group 611
+    3300450: Group 613
+    3300452: Group 618
+    3300454: Group 621
+    3300456: Group 624
+    3300458: Group 626
+    3300460: Group 628
+    3300462: Group 63
+    3300464: Group 630
+    3300466: Group 632
+    3300468: Group 634
+    3300470: Group 636
+    3300472: Group 638
+    3300474: Group 640
+    3300476: Group 642
+    3300478: Group 644
+    3300480: Group 646
+    3300482: Group 648
+    3300484: Group 65
+    3300486: Group 658
+    3300488: Group 660
+    3300490: Group 662
+    3300492: Group 664
+    3300494: Group 67
+    3300496: Group 69
+    3300498: Group 7
+    3300500: Group 71
+    3300502: Group 73
+    3300504: Group 75
+    3300506: Group 77
+    3300508: Group 79
+    3300510: Group 81
+    3300512: Group 83
+    3300514: Group 85
+    3300516: Group 87
+    3300518: Group 89
+    3300520: Group 9
+    3300522: Group 91
+    3300524: Group 93
+    3300526: Group 95
+    3300528: Group 97
+    3300530: Group 99
+    3300532: Image 498
+    3300534: Image 516
+    3300536: Image 609
+    3300538: kasten
+    3300540: Knife_Set_Handle
+    3300542: Knife_Set_Handle 1
+    3300544: Knife_Set_Handle 2
+    3300546: Knife_Set_Handle 3
+    3300548: Knife_Set_Handle 4
+    3300550: koffie-uitgang
+    3300552: leaf
+    3300554: leaf 1
+    3300556: leaf 2
+    3300558: leaf 3
+    3300560: leaf 4
+    3300562: leaf 5
+    3300564: leaf 6
+    3300566: leather_ba_MeshPart0
+    3300568: leather_ba_MeshPart1
+    3300570: Modern Coffee Table
+    3300572: petal#1
+    3300574: petal#1 1
+    3300576: petal#1 10
+    3300578: petal#1 11
+    3300580: petal#1 12
+    3300582: petal#1 13
+    3300584: petal#1 14
+    3300586: petal#1 15
+    3300588: petal#1 2
+    3300590: petal#1 3
+    3300592: petal#1 4
+    3300594: petal#1 5
+    3300596: petal#1 6
+    3300598: petal#1 7
+    3300600: petal#1 8
+    3300602: petal#1 9
+    3300604: PHILIPS
+    3300606: pillow
+    3300608: pillow 1
+    3300610: planca wardrobe
+    3300612: ske1A10
+    3300614: ske5C5
+    3300616: ske865
+    3300618: Slider
+    3300620: Slider2
+    3300622: stem
+    3300624: stem 1
+    3300626: stem 2
+    3300628: stem2
+    3300630: Vase_Quarter
+    3300632: Vase_Quarter 1
+    3300634: Vase_Quarter 2
+    3300636: Vase_Quarter 3
+    3300638: Water_Faucet_4
+    3300640: werkblad
+    3300642: werkblad2
+    3300644: Whirlpool Induction Cooktop
+    3300646: Window
+    3300648: Window 1
+    4300000: Mesh Group 5
+    4300002: Mesh Group 7
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 15
+    4300012: Mesh Group 17
+    4300014: Mesh Group 19
+    4300016: Mesh Group 21
+    4300018: Mesh Group 41
+    4300020: Mesh Group 49
+    4300022: Mesh Group 51
+    4300024: Mesh Group 57
+    4300026: Mesh Group 59
+    4300028: Mesh Group 87
+    4300030: Mesh Group 91
+    4300032: Mesh Group 111
+    4300034: Mesh Group 123
+    4300036: Mesh Group 125
+    4300038: Mesh Group 129
+    4300040: Mesh Group 135
+    4300042: Mesh Group 137
+    4300044: Mesh Group 139
+    4300046: Mesh Group 143
+    4300048: Mesh Group 145
+    4300050: Mesh Group 151
+    4300052: Mesh Group 161
+    4300054: Mesh Group 163
+    4300056: Mesh Group 171
+    4300058: Mesh Group 175
+    4300060: Mesh Group 177
+    4300062: Mesh Group 189
+    4300064: Mesh Group 193
+    4300066: Mesh Group 195
+    4300068: Mesh Group 197
+    4300070: Mesh Group 199
+    4300072: Mesh Group 201
+    4300074: Mesh Group 205
+    4300076: Mesh Group 207
+    4300078: Mesh Group 209
+    4300080: Mesh Group 247
+    4300082: Mesh Group 255
+    4300084: Mesh Group 277
+    4300086: Mesh Group 281
+    4300088: Mesh Group 287
+    4300090: Mesh Group 289
+    4300092: Mesh Group 291
+    4300094: Mesh Group 293
+    4300096: Mesh Group 295
+    4300098: Mesh Group 297
+    4300100: Mesh Group 299
+    4300102: Mesh Group 301
+    4300104: Mesh Group 303
+    4300106: Mesh Group 305
+    4300108: Mesh Group 307
+    4300110: Mesh Group 309
+    4300112: Mesh Group 311
+    4300114: Mesh Group 313
+    4300116: Mesh Group 315
+    4300118: Mesh Group 317
+    4300120: Mesh Group 319
+    4300122: Mesh Group 321
+    4300124: Mesh Group 327
+    4300126: Mesh Group 329
+    4300128: Mesh Group 331
+    4300130: Mesh Group 333
+    4300132: Mesh Group 359
+    4300134: Mesh Group 363
+    4300136: Mesh Group 365
+    4300138: Mesh Group 367
+    4300140: Mesh Group 369
+    4300142: Mesh Group 371
+    4300144: Mesh Group 373
+    4300146: Mesh Group 375
+    4300148: Mesh Group 377
+    4300150: Mesh Group 379
+    4300152: Mesh Group 383
+    4300154: Mesh Group 385
+    4300156: Mesh Group 399
+    4300158: Mesh Group 401
+    4300160: Mesh Group 403
+    4300162: Mesh Group 407
+    4300164: Mesh Group 409
+    4300166: Mesh Group 411
+    4300168: Mesh Vase_Quarter
+    4300170: Mesh stem
+    4300172: Mesh leaf
+    4300174: Mesh petal#1
+    4300176: Mesh stem2
+    4300178: Mesh Group 486
+    4300180: Mesh Group 488
+    4300182: Mesh Group 490
+    4300184: Mesh pillow
+    4300186: Mesh Group 497
+    4300188: Mesh Group 499
+    4300190: Mesh Group 501
+    4300192: Mesh Group 503
+    4300194: Mesh greep
+    4300196: Mesh werkblad
+    4300198: Mesh werkblad
+    4300200: Mesh kasten
+    4300202: Mesh Afzuigkap
+    4300204: Mesh Water_Faucet_4
+    4300206: Mesh eiland
+    4300208: Mesh werkblad2
+    4300210: Mesh Whirlpool Induction Cooktop
+    4300212: Mesh ske865
+    4300214: Mesh Group 555
+    4300216: Mesh Group 557
+    4300218: Mesh Group 559
+    4300220: Mesh Group 561
+    4300222: Mesh Group 567
+    4300224: Mesh Group 569
+    4300226: Mesh koffie-uitgang
+    4300228: Mesh ske1A10
+    4300230: Mesh Knife_Set_Handle
+    4300232: Mesh Knife_Set_Handle
+    4300234: Mesh Knife_Set_Handle
+    4300236: Mesh bovenkast
+    4300238: Mesh leather_ba_MeshPart0
+    4300240: Mesh leather_ba_MeshPart1
+    4300242: Mesh Modern Coffee Table
+    4300244: Mesh planca wardrobe
+    4300246: Mesh Group 608
+    4300248: Mesh Group 611
+    4300250: Mesh Group 613
+    4300252: Mesh 120
+    4300254: Mesh Group 618
+    4300256: Mesh Group 621
+    4300258: Mesh Group 624
+    4300260: Mesh Group 626
+    4300262: Mesh Group 628
+    4300264: Mesh Group 630
+    4300266: Mesh Group 632
+    4300268: Mesh Group 634
+    4300270: Mesh Group 636
+    4300272: Mesh Group 638
+    4300274: Mesh Group 640
+    4300276: Mesh Group 642
+    4300278: Mesh Group 644
+    4300280: Mesh Group 646
+    4300282: Mesh Group 648
+    4300284: Mesh PHILIPS
+    4300286: Mesh ske5C5
+    4300288: Mesh Cylinder01
+    4300290: Mesh Group 660
+    4300292: Mesh Group 662
+    4300294: Mesh Component#9
+    4300296: Mesh door 5
+    4300298: Mesh Frame
+    4300300: Mesh Slider2
+    4300302: Mesh Window
+    4300304: Mesh Slider
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

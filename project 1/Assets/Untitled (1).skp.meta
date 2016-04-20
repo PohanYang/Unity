@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: b047c5eeba20b784ba077196257d10dd
+timeCreated: 1459178781
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2e82157e4adca2b2282c15df2e9ecee6
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 40.97039, y: 12.543339, z: 9.899469}
+      lookAt: {x: 17.56519, y: 5.1692963, z: 9.930524}
+      up: {x: -0.30049816, y: 0.9537823, z: 0.00039871546}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Competition#1
+    100002: dinosaur
+    100004: Group 10
+    100006: Group 12
+    100008: Group 14
+    100010: Group 16
+    100012: Group 7
+    100014: Group 9
+    100016: Terrain Competit
+    100018: //RootNode
+    400000: Competition#1
+    400002: dinosaur
+    400004: Group 10
+    400006: Group 12
+    400008: Group 14
+    400010: Group 16
+    400012: Group 7
+    400014: Group 9
+    400016: Terrain Competit
+    400018: //RootNode
+    2300000: Competition#1
+    2300002: Group 10
+    2300004: Group 12
+    2300006: Group 14
+    2300008: Group 16
+    2300010: Group 7
+    2300012: Terrain Competit
+    2300014: //RootNode
+    3300000: Competition#1
+    3300002: Group 10
+    3300004: Group 12
+    3300006: Group 14
+    3300008: Group 16
+    3300010: Group 7
+    3300012: Terrain Competit
+    3300014: //RootNode
+    4300000: Mesh Untitled (1)
+    4300002: Mesh Competition#1
+    4300004: Mesh Terrain Competit
+    4300006: Mesh Group 7
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
